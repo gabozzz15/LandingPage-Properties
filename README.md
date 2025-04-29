@@ -4,6 +4,9 @@
 
 LandingProperties es una aplicación web moderna e interactiva diseñada para mostrar y filtrar propiedades inmobiliarias. La plataforma ofrece una experiencia de usuario intuitiva que permite a los usuarios explorar propiedades mediante un mapa interactivo, filtros avanzados y tarjetas de propiedades detalladas.
 
+[![image.png](https://i.postimg.cc/HLssr8x6/image.png)](https://postimg.cc/CRXVt1b8)
+[![image.png](https://i.postimg.cc/D0s79qjw/image.png)](https://postimg.cc/Zvbk3yzG)
+
 ## 🌟 Características Principales
 
 - **Mapa Interactivo**: Visualización geográfica de propiedades usando Leaflet
