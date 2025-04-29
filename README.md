@@ -42,7 +42,7 @@ LandingProperties es una aplicación web moderna e interactiva diseñada para mo
 ### Clonar el Repositorio
 ```bash
 git clone https://github.com/gabozzz15/LandingPage-Properties.git
-cd LandingProperties
+cd LandingPage-Properties
 ```
 
 ### Configuración de Base de Datos
